@@ -1,0 +1,14 @@
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/strings.xml	(date 1590066617000)
++++ app/src/main/res/values/strings.xml	(date 1590066702000)
+@@ -1,5 +1,5 @@
+ <resources>
+     <string name="app_name">Timefighter</string>
+-    <string name="hello_jenay">Hello Jenay</string>
++    <string name="hello_jenay">Hello jenay</string>
+ 
+ </resources>
